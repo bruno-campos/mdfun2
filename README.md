@@ -41,6 +41,8 @@ aaaa
 ---
 
 bbb
+
+*italic* **bold**
 		
 
 
