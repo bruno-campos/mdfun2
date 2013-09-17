@@ -43,6 +43,8 @@ aaaa
 bbb
 
 *italic* **bold**
+
+![github logo](http://www.csscube.info/wp-content/uploads/2013/03/github-logo.png)
 		
 
 
