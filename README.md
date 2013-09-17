@@ -25,3 +25,7 @@ List 3
 - item 1  
 still item 1
 - item 2
+
+List 4  
+1. item 1
+1. item 2
